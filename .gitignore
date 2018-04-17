@@ -286,3 +286,9 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+/d2_freq_TRBC.txt
+/d1_freq_TRBC.txt
+/d17-QIAseqRNA-immune-repertoire-TCR.clonotypes.txt
+/d10-QIAseqRNA-immune-repertoire-TCR.clonotypes.txt
+/d0_freq_TRBC.txt
+/d0-QIAseqRNA-immune-repertoire-TCR.clonotypes.txt
